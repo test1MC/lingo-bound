@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LingoProject TargetLanguage="es" xml:lang="es" SourceLanguage="en-us" FileFormatVersion="6" CreatedInVersion="11" flattenSnippets="false" SelectedTarget="" SourceSourceControlBound="true" SourceSourceControlProviderType="Git" SourceSourceControlDatabase="file:///C:/Users/randonie/AppData/Local/MadCap Software/Lingo_Images-6/.git/" SourceSourceControlDatabaseRoot="https://github.com/test1MC/Flare4lingo1.git/" SourceProjectGuid="ea7d2f79-253d-4380-a37f-12b79c5374ee" SourceControlBound="false">
+    <ProjectFile Source="Target/Image1.flprj" Target="Target/Image1.flprj" />
+</LingoProject>
